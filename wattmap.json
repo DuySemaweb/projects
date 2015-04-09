@@ -1,0 +1,35 @@
+{
+    "prises":
+    {
+     "results":{
+     "US":"1", "CA":"1", "FR":"2", "ES":"2", "VN":"3", "CN":"3", "JP":"3", "RU":"2", "MC":"2", "BR":"1",
+    
+     "produits":{
+        "US":"http://www.watt-and-co.fr/13-964-medium/adaptateur-de-prise-secteur-universel-vers-usa.jpg", 
+        "CA":"http://www.watt-and-co.fr/4-947-medium/adaptateur-de-prise-lectrique-france-vers-usa-canada-japon-taiwan.jpg", 
+        "FR":"http://www.watt-and-co.fr/4-947-medium/adaptateur-de-prise-lectrique-france-vers-usa-canada-japon-taiwan.jpg",
+        "ES":"http://www.watt-and-co.fr/4-947-medium/adaptateur-de-prise-lectrique-france-vers-usa-canada-japon-taiwan.jpg",
+        "CN":"http://www.watt-and-co.fr/4-947-medium/adaptateur-de-prise-lectrique-france-vers-usa-canada-japon-taiwan.jpg",
+        "VN":"http://www.watt-and-co.fr/4-947-medium/adaptateur-de-prise-lectrique-france-vers-usa-canada-japon-taiwan.jpg"
+         
+     },
+         "produits2":{
+        "US":"http://www.watt-and-co.fr/13-964-medium/adaptateur-de-prise-secteur-universel-vers-usa.jpg", 
+        "CA":"http://www.watt-and-co.fr/13-964-medium/adaptateur-de-prise-secteur-universel-vers-usa.jpg", 
+        "FR":"http://www.watt-and-co.fr/13-964-medium/adaptateur-de-prise-secteur-universel-vers-usa.jpg",
+        "ES":"http://www.watt-and-co.fr/13-964-medium/adaptateur-de-prise-secteur-universel-vers-usa.jpg",
+        "CN":"http://www.watt-and-co.fr/13-964-medium/adaptateur-de-prise-secteur-universel-vers-usa.jpg"
+        
+    },
+        "urlliste":{
+        "US":"http://wattandco.smwb.fr/7-gamme-voyage",
+        "CA":"http://wattandco.smwb.fr/7-gamme-voyage",
+        "FR":"http://wattandco.smwb.fr/7-gamme-voyage",
+        "ES":"http://wattandco.smwb.fr/7-gamme-voyage",
+        "CN":"http://wattandco.smwb.fr/7-gamme-voyage",
+        "VN":"http://wattandco.smwb.fr/7-gamme-voyage"
+        }
+}
+}
+}
+
